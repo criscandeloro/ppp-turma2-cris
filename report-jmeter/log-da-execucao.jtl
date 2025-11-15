@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763167862979,115,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-8,text,false,,277,273,25,25,http://localhost:3000/students/register,115,0,81
+1763167862992,103,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-11,text,false,,277,276,25,25,http://localhost:3000/students/register,103,0,69
+1763167862960,145,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-21,text,false,,277,276,25,25,http://localhost:3000/students/register,145,0,101
+1763167862944,165,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-15,text,false,,277,276,25,25,http://localhost:3000/students/register,165,0,119
+1763167863103,9,Login do estudante,200,OK,Registrando usuários como estudante 1-11,text,true,,409,249,25,25,http://localhost:3000/students/login,9,0,0
+1763167862975,141,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-1,text,false,,277,273,25,25,http://localhost:3000/students/register,141,0,85
+1763167862991,105,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-9,text,false,,277,273,25,25,http://localhost:3000/students/register,105,0,71
+1763167863110,34,Login do estudante,200,OK,Registrando usuários como estudante 1-15,text,true,,408,249,25,25,http://localhost:3000/students/login,34,0,0
+1763167863107,37,Login do estudante,200,OK,Registrando usuários como estudante 1-21,text,true,,409,249,25,25,http://localhost:3000/students/login,37,0,0
+1763167862925,232,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-10,text,false,,277,276,22,22,http://localhost:3000/students/register,232,0,221
+1763167862978,183,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-6,text,false,,277,273,22,22,http://localhost:3000/students/register,183,0,168
+1763167862944,220,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-2,text,false,,277,273,22,22,http://localhost:3000/students/register,220,0,203
+1763167862941,233,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-14,text,false,,277,276,22,22,http://localhost:3000/students/register,233,0,207
+1763167862989,187,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-12,text,false,,277,276,22,22,http://localhost:3000/students/register,187,0,159
+1763167862923,255,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-16,text,false,,277,276,22,22,http://localhost:3000/students/register,255,0,225
+1763167862953,226,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-19,text,false,,277,276,22,22,http://localhost:3000/students/register,226,0,196
+1763167862962,222,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-20,text,false,,277,276,22,22,http://localhost:3000/students/register,221,0,188
+1763167863152,32,Login do estudante,200,OK,Registrando usuários como estudante 1-1,text,true,,408,247,22,22,http://localhost:3000/students/login,32,0,0
+1763167863144,44,Login do estudante,200,OK,Registrando usuários como estudante 1-9,text,true,,409,247,21,21,http://localhost:3000/students/login,43,0,0
+1763167863159,34,Login do estudante,200,OK,Registrando usuários como estudante 1-10,text,true,,408,249,20,20,http://localhost:3000/students/login,34,0,0
+1763167863007,189,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-23,text,false,,277,276,19,19,http://localhost:3000/students/register,189,0,89
+1763167863163,60,Login do estudante,200,OK,Registrando usuários como estudante 1-6,text,true,,409,247,20,20,http://localhost:3000/students/login,60,0,0
+1763167863175,57,Login do estudante,200,OK,Registrando usuários como estudante 1-14,text,true,,409,249,20,20,http://localhost:3000/students/login,57,0,0
+1763167863177,62,Login do estudante,200,OK,Registrando usuários como estudante 1-12,text,true,,409,249,19,19,http://localhost:3000/students/login,61,0,0
+1763167863178,67,Login do estudante,200,OK,Registrando usuários como estudante 1-16,text,true,,409,249,19,19,http://localhost:3000/students/login,67,0,0
+1763167863182,74,Login do estudante,200,OK,Registrando usuários como estudante 1-19,text,true,,408,249,18,18,http://localhost:3000/students/login,74,0,0
+1763167863172,89,Login do estudante,200,OK,Registrando usuários como estudante 1-2,text,true,,409,247,17,17,http://localhost:3000/students/login,88,0,0
+1763167863184,309,Login do estudante,200,OK,Registrando usuários como estudante 1-20,text,true,,409,249,37,37,http://localhost:3000/students/login,309,0,0
+1763167862978,518,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-5,text,false,,277,273,36,36,http://localhost:3000/students/register,518,0,224
+1763167863201,301,Login do estudante,200,OK,Registrando usuários como estudante 1-23,text,true,,409,249,37,37,http://localhost:3000/students/login,301,0,0
+1763167862944,562,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-13,text,false,,277,276,37,37,http://localhost:3000/students/register,561,0,261
+1763167862993,518,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-7,text,false,,277,273,37,37,http://localhost:3000/students/register,518,0,214
+1763167863027,503,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-24,text,false,,277,276,36,36,http://localhost:3000/students/register,502,0,180
+1763167862923,613,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-3,text,false,,277,273,37,37,http://localhost:3000/students/register,613,0,284
+1763167862986,552,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-4,text,false,,277,273,36,36,http://localhost:3000/students/register,552,0,221
+1763167862961,580,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-22,text,false,,277,276,36,36,http://localhost:3000/students/register,580,0,246
+1763167862963,580,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-18,text,false,,277,276,36,36,http://localhost:3000/students/register,580,0,246
+1763167863512,42,Login do estudante,200,OK,Registrando usuários como estudante 1-7,text,true,,409,247,37,37,http://localhost:3000/students/login,42,0,0
+1763167863530,44,Login do estudante,200,OK,Registrando usuários como estudante 1-24,text,true,,409,249,35,35,http://localhost:3000/students/login,43,0,0
+1763167862945,632,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-17,text,false,,277,276,34,34,http://localhost:3000/students/register,632,0,252
+1763167863034,547,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-25,text,false,,277,276,34,34,http://localhost:3000/students/register,547,0,174
+1763167863210,375,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-26,text,false,,277,276,34,34,http://localhost:3000/students/register,375,0,2
+1763167863244,343,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-28,text,false,,277,276,34,34,http://localhost:3000/students/register,343,0,10
+1763167863242,348,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-27,text,false,,277,276,34,34,http://localhost:3000/students/register,348,0,16
+1763167863578,17,Login do estudante,200,OK,Registrando usuários como estudante 1-17,text,true,,408,249,34,34,http://localhost:3000/students/login,17,0,0
+1763167863442,160,Login do estudante,200,OK,Registrando usuários como estudante 1-8,text,true,,409,247,33,33,http://localhost:3000/students/login,160,0,0
+1763167863497,117,Login do estudante,200,OK,Registrando usuários como estudante 1-5,text,true,,408,247,32,32,http://localhost:3000/students/login,117,0,0
+1763167863506,115,Login do estudante,200,OK,Registrando usuários como estudante 1-13,text,true,,409,249,31,31,http://localhost:3000/students/login,115,0,0
+1763167863536,89,Login do estudante,200,OK,Registrando usuários como estudante 1-3,text,true,,408,247,30,30,http://localhost:3000/students/login,89,0,0
+1763167863539,91,Login do estudante,200,OK,Registrando usuários como estudante 1-4,text,true,,408,247,29,29,http://localhost:3000/students/login,91,0,0
+1763167863541,99,Login do estudante,200,OK,Registrando usuários como estudante 1-22,text,true,,409,249,28,28,http://localhost:3000/students/login,99,0,0
+1763167863543,110,Login do estudante,200,OK,Registrando usuários como estudante 1-18,text,true,,408,249,27,27,http://localhost:3000/students/login,110,0,0
+1763167863582,77,Login do estudante,200,OK,Registrando usuários como estudante 1-25,text,true,,409,249,26,26,http://localhost:3000/students/login,77,0,0
+1763167863586,81,Login do estudante,200,OK,Registrando usuários como estudante 1-26,text,true,,409,249,25,25,http://localhost:3000/students/login,81,0,0
+1763167863588,83,Login do estudante,200,OK,Registrando usuários como estudante 1-28,text,true,,409,249,24,24,http://localhost:3000/students/login,83,0,0
+1763167863590,87,Login do estudante,200,OK,Registrando usuários como estudante 1-27,text,true,,409,249,23,23,http://localhost:3000/students/login,87,0,0
+1763167863285,395,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-30,text,false,,277,276,22,22,http://localhost:3000/students/register,395,0,1
+1763167863340,344,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-29,text,false,,277,276,22,22,http://localhost:3000/students/register,343,0,5
+1763167863351,334,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-31,text,false,,277,276,22,22,http://localhost:3000/students/register,334,0,4
+1763167863357,333,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-32,text,false,,277,276,22,22,http://localhost:3000/students/register,333,0,2
+1763167863361,331,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-34,text,false,,277,276,22,22,http://localhost:3000/students/register,331,0,2
+1763167863366,328,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-33,text,false,,277,276,22,22,http://localhost:3000/students/register,328,0,3
+1763167863371,325,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-35,text,false,,277,276,22,22,http://localhost:3000/students/register,325,0,58
+1763167863428,271,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-36,text,false,,277,276,22,22,http://localhost:3000/students/register,271,0,2
+1763167863437,265,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-37,text,false,,277,276,22,22,http://localhost:3000/students/register,265,0,1
+1763167863438,266,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-38,text,false,,277,276,22,22,http://localhost:3000/students/register,266,0,2
+1763167863445,261,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-39,text,false,,277,276,22,22,http://localhost:3000/students/register,261,0,2
+1763167863453,255,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-40,text,false,,277,276,22,22,http://localhost:3000/students/register,255,0,7
+1763167863461,250,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-41,text,false,,277,276,22,22,http://localhost:3000/students/register,250,0,2
+1763167863470,243,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-42,text,false,,277,276,22,22,http://localhost:3000/students/register,243,0,2
+1763167863481,235,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-44,text,false,,277,276,22,22,http://localhost:3000/students/register,235,0,1
+1763167863479,239,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-45,text,false,,277,276,22,22,http://localhost:3000/students/register,239,0,5
+1763167863486,235,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-43,text,false,,277,276,22,22,http://localhost:3000/students/register,235,0,2
+1763167863488,235,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-46,text,false,,277,276,22,22,http://localhost:3000/students/register,235,0,3
+1763167863491,235,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-47,text,false,,277,276,22,22,http://localhost:3000/students/register,235,0,1
+1763167863491,238,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-48,text,false,,277,276,22,22,http://localhost:3000/students/register,238,0,1
+1763167863496,238,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-49,text,false,,277,276,22,22,http://localhost:3000/students/register,238,0,2
+1763167863501,235,Registrar usuário como estudante,400,Bad Request,Registrando usuários como estudante 1-50,text,false,,277,276,22,22,http://localhost:3000/students/register,235,0,2
+1763167863686,57,Login do estudante,200,OK,Registrando usuários como estudante 1-31,text,true,,409,249,22,22,http://localhost:3000/students/login,57,0,0
+1763167863727,19,Login do estudante,200,OK,Registrando usuários como estudante 1-47,text,true,,409,249,21,21,http://localhost:3000/students/login,19,0,0
+1763167863730,19,Login do estudante,200,OK,Registrando usuários como estudante 1-48,text,true,,409,249,20,20,http://localhost:3000/students/login,19,0,0
+1763167863737,16,Login do estudante,200,OK,Registrando usuários como estudante 1-50,text,true,,409,249,19,19,http://localhost:3000/students/login,16,0,0
+1763167863681,76,Login do estudante,200,OK,Registrando usuários como estudante 1-30,text,true,,409,249,18,18,http://localhost:3000/students/login,76,0,0
+1763167863684,77,Login do estudante,200,OK,Registrando usuários como estudante 1-29,text,true,,409,249,17,17,http://localhost:3000/students/login,77,0,0
+1763167863691,74,Login do estudante,200,OK,Registrando usuários como estudante 1-32,text,true,,409,249,16,16,http://localhost:3000/students/login,74,0,0
+1763167863692,77,Login do estudante,200,OK,Registrando usuários como estudante 1-34,text,true,,409,249,15,15,http://localhost:3000/students/login,77,0,0
+1763167863694,80,Login do estudante,200,OK,Registrando usuários como estudante 1-33,text,true,,409,249,14,14,http://localhost:3000/students/login,80,0,0
+1763167863697,81,Login do estudante,200,OK,Registrando usuários como estudante 1-35,text,true,,409,249,13,13,http://localhost:3000/students/login,80,0,0
+1763167863700,81,Login do estudante,200,OK,Registrando usuários como estudante 1-36,text,true,,409,249,12,12,http://localhost:3000/students/login,81,0,0
+1763167863703,83,Login do estudante,200,OK,Registrando usuários como estudante 1-37,text,true,,409,249,11,11,http://localhost:3000/students/login,82,0,0
+1763167863704,85,Login do estudante,200,OK,Registrando usuários como estudante 1-38,text,true,,409,249,10,10,http://localhost:3000/students/login,85,0,0
+1763167863707,86,Login do estudante,200,OK,Registrando usuários como estudante 1-39,text,true,,409,249,9,9,http://localhost:3000/students/login,86,0,0
+1763167863709,92,Login do estudante,200,OK,Registrando usuários como estudante 1-40,text,true,,409,249,8,8,http://localhost:3000/students/login,92,0,0
+1763167863711,94,Login do estudante,200,OK,Registrando usuários como estudante 1-41,text,true,,409,249,7,7,http://localhost:3000/students/login,94,0,0
+1763167863714,94,Login do estudante,200,OK,Registrando usuários como estudante 1-42,text,true,,409,249,6,6,http://localhost:3000/students/login,94,0,0
+1763167863716,97,Login do estudante,200,OK,Registrando usuários como estudante 1-44,text,true,,409,249,5,5,http://localhost:3000/students/login,97,0,0
+1763167863719,98,Login do estudante,200,OK,Registrando usuários como estudante 1-45,text,true,,409,249,4,4,http://localhost:3000/students/login,98,0,0
+1763167863722,99,Login do estudante,200,OK,Registrando usuários como estudante 1-43,text,true,,409,249,3,3,http://localhost:3000/students/login,98,0,0
+1763167863723,101,Login do estudante,200,OK,Registrando usuários como estudante 1-46,text,true,,409,249,2,2,http://localhost:3000/students/login,101,0,0
+1763167863734,93,Login do estudante,200,OK,Registrando usuários como estudante 1-49,text,true,,409,249,1,1,http://localhost:3000/students/login,93,0,0
